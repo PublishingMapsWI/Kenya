@@ -1,0 +1,1 @@
+var json_SPD24 = {"type":"FeatureCollection","name":"SPD24","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Title":"Seed Potato Development (SPD)  - national coverage","ShortTitle":"SPD","Scale":"National"},"geometry":{"type":"Point","coordinates":[37.885929168246385,3.804791833305294]}}]}

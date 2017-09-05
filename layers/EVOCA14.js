@@ -1,0 +1,1 @@
+var json_EVOCA14 = {"type":"FeatureCollection","name":"EVOCA14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"County":"Laikipia","Title":"Environmental Virtual Observatories For Connective Action (EVOCA)"},"geometry":{"type":"Point","coordinates":[36.820670032280269,0.329443849456862]}}]}

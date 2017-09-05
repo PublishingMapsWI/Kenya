@@ -1,0 +1,1 @@
+var json_SCRM22 = {"type":"FeatureCollection","name":"SCRM22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Title":"Scaling Climate Resilient Maize (SCRM) - national coverage","ShortTitle":"SCRM","Scale":"National"},"geometry":{"type":"Point","coordinates":[37.008552103337529,4.383100940361488]}}]}
